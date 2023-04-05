@@ -5,6 +5,8 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 현실에 안주하지 않는 개발자 김승혜입니다👩 </div> 
     </div>
+    <br>
+    <br>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white">
@@ -19,12 +21,16 @@
           <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
           <br/></div>
     </div>
+    <br> 
+    <br> 
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link="> </a>
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
+    <br> 
+    <br> 
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=seunghye910326&bg_color=180,00000000,00000000&title_color=000000&text_color=000000"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seunghye910326&layout=compact&bg_color=180,00000000,00000000&title_color=000000&text_color=000000"
